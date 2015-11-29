@@ -6,3 +6,12 @@ Length of title
 Title string hash
 SubReddit Title Hash
 No.of comments
+
+#To be added
+ 
+1. Time of the day
+2. Punctuation ratio
+3. Automatic readability index
+4. Sentiment of the title
+5. Resubmission ratio
+6. 
