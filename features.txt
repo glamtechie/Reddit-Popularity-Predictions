@@ -1,2 +1,8 @@
 Put features here:
 
+UnixTime
+TotalVotes
+Length of title
+Title string hash
+SubReddit Title Hash
+No.of comments
