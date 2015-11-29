@@ -18,3 +18,7 @@ ARIBucket of title
  
 Sentiment of the title
 Resubmission ratio
+
+#Pooja:
+subreddit submission vector for 57 subreddits with probabilities as weights
+
