@@ -1,0 +1,20 @@
+Put features here:
+
+Features added
+
+UnixTime
+TotalVotes
+Length of title
+Title string hash
+SubReddit Title Hash
+No.of comments
+local Hour of the day
+local Day of the week
+Punctuation ratio (punctuations to words in title)
+Automatic readability index of title
+ARIBucket of title
+
+#To be added
+ 
+Sentiment of the title
+Resubmission ratio
